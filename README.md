@@ -21,21 +21,8 @@ ________________________________________
 
 🏗️ **Architecture Overview**
 
-CRM CSV Files        ERP CSV Files
+<img width="561" height="933" alt="image" src="https://github.com/user-attachments/assets/c2ab9ee2-aa35-4140-9351-fb1f1c812e93" />
 
-Ingestion
-↓
-Bronze Layer
-(Raw source data)
-↓
-Silver Layer
-(Cleaned & standardized)
-↓
-Gold Layer
-(Aggregated business data)
-↓
-SQL Analytics Layer
-(KPIs & business insights)
 ________________________________________
 
 🧰 **Technologies Used**
@@ -76,7 +63,7 @@ ________________________________________
 
 🥉 **Bronze Layer – Raw Data Ingestion**
 
-Purpose: Preserve source data with minimal transformation for traceability.
+**Purpose:** Preserve source data with minimal transformation for traceability.
 
 •	CRM tables: customers, products, sales
 
@@ -177,7 +164,6 @@ ________________________________________
 
 ✅ **Data Quality & Validation**
 
-Validation scripts located in: sql/tests/
 
 **Checks include:**
 
