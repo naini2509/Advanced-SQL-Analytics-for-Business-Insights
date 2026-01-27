@@ -21,7 +21,8 @@ ________________________________________
 
 🏗️ **Architecture Overview**
 
-<img width="561" height="933" alt="image" src="https://github.com/user-attachments/assets/c2ab9ee2-aa35-4140-9351-fb1f1c812e93" />
+<img width="1310" height="324" alt="image" src="https://github.com/user-attachments/assets/07a096c8-c9cd-436c-982c-15794a70b379" />
+
 
 ________________________________________
 
