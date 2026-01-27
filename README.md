@@ -2,13 +2,13 @@
 An end-to-end SQL project that demonstrates how raw CRM and ERP data can be transformed into clean, reliable, and analytics ready datasets using a modern Bronze → Silver → Gold data warehouse architecture, followed by advanced SQL analysis to generate business insights and KPIs.
 This project is designed to showcase real world Data Analyst skills including data cleaning, transformation, modeling, advanced querying, performance optimization, and business reporting using Microsoft SQL Server and T SQL.
 ________________________________________
-📌 Project Highlights
-##•	End to end ETL pipeline built fully in SQL
-##•	Bronze, Silver, and Gold layered warehouse architecture
-##•	CRM and ERP data integration
-##•	Data quality validation at multiple stages
-##•	Advanced SQL analytics for KPIs and trends
-##•	Business ready datasets for BI tools
+**📌 Project Highlights**
+•	End to end ETL pipeline built fully in SQL
+•	Bronze, Silver, and Gold layered warehouse architecture
+•	CRM and ERP data integration
+•	Data quality validation at multiple stages
+•	Advanced SQL analytics for KPIs and trends
+•	Business ready datasets for BI tools
 ________________________________________
 🏗️ Architecture Overview
 CRM CSV Files        ERP CSV Files
